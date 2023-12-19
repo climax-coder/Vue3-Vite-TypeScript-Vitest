@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-height: 100vh;
+}
+
+#app {
+  width: 100%;
+  min-height: 100vh;
+  margin: 0 auto;
+}
+
+:root {
+  --main-color: #0B63F8;
+  --secondary-color: #131313;
+}
